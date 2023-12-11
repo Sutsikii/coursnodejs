@@ -1,0 +1,4 @@
+- découverte des nodes_modules avec l'installation d'express
+- découverte du gitignore 
+- faire un répo git
+- voir les commandes de git 
