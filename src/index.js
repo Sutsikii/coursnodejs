@@ -4,12 +4,9 @@ import { pokemons } from "./utils/pokemon.js";
 import cors from "cors"
 import dotenv from 'dotenv';
 
-
 const app = express();
-const port = 3001;
 
 dotenv.config();
-
 
 app.use(cors());
 
